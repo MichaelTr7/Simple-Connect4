@@ -9,12 +9,12 @@
 // return {Screen_Height, Screen_Width};
 // }
 //
-const fs = require("fs");
-const {remote} = require('electron');
+// const fs = require("fs");
+// const {remote} = require('electron');
 function Reload(){
 
-  const Main_Window = remote.getCurrentWindow();
-  Main_Window.reload();
+//   const Main_Window = remote.getCurrentWindow();
+//   Main_Window.reload();
 }
 
 window.onload = function(){
