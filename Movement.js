@@ -13,6 +13,8 @@
 // const {remote} = require('electron');
 function Reload(){
 
+  location.reload();
+
   // const Main_Window = remote.getCurrentWindow();
   // Main_Window.reload();
 }
