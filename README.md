@@ -1,7 +1,8 @@
 # [Simple Connect4 Game](https://michaeltr7.github.io/Simple-Connect4/)
 
 • Experimenting with CSS animations and transformations. <br/>
-• Practice tracking cursor movements and click positions to control dropping counters/tokens
+• Practice tracking cursor movements and click positions to control dropping counters/tokens <br/>
+• Not as performant as Electron desktop version (web version requires animation fixes).
 
 <br/>
 
