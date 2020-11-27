@@ -1,4 +1,5 @@
-# [Simple Connect4 Game](https://michaeltr7.github.io/Simple-Connect4/)
+# [Simple Connect4 Game](https://michaeltr7.github.io/Simple-Connect4/)  [<img src="./Images/Icon.png" width = "45">](https://michaeltr7.github.io/Simple-Connect4/)
+
 
 • Experimenting with CSS animations and transformations. <br/>
 • Practice tracking cursor movements and click positions to control dropping counters/tokens <br/>
