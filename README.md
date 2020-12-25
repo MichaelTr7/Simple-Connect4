@@ -5,7 +5,7 @@
 • Not as performant as Electron desktop version (web version requires animation fixes).
 <br/>
 
-<h3>Preview Image</h3>
+<h3>Preview Images</h3>
 
 [<img src="./Images/Preview Image.png" width = "1000">](https://michaeltr7.github.io/Simple-Connect4/)
 
